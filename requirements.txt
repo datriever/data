@@ -1,0 +1,7 @@
+ipykernel
+numpy
+torch --index-url https://download.pytorch.org/whl/cu118
+scikit-learn
+pandas
+matplotlib
+nbformat
