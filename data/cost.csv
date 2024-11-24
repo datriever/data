@@ -1,0 +1,9 @@
+Instrument,Discount rate,CAPEX ($/kW),Capacity factor,Economic life year,Fixed O&M cost (fraction of CAPEX),Fuel price ($/GJ),Variable O&M cost ($/MWh),LCOE Coste de los instrumentos ($/MWh)
+Biomass,0.07,6068,0.65,20,0.029,0.9,5.4967,146.3
+Geothermal,0.07,4892,0.8,25,0.0438,0.0,1.16,91.6
+Hydro,0.07,3630,0.4,30,0.0139,0.0,1.39,99.3
+PV,0.07,1688,0.15,25,0.009,0.0,0.0,121.8
+Wind onshore,0.07,2285,0.3,25,0.0254,0.0,0.0,96.7
+Nuclear,0.07,7911,0.8,40,0.017,0.7,4.6017,116.5
+Coal,0.07,4344,0.75,30,0.013,1.5,5.4186,78.6
+Natural Gas,0.07,899,0.75,20,0.014,3.3,5.62,46.8
